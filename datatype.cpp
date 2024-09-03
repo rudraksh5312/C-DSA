@@ -20,7 +20,27 @@ int main() {
 
     int size = sizeof(d);
     cout << "Size of a is :" << size << endl;
+ 
          
+     int c = 'c';
+     cout << c << endl;    
+
+     char ch = 98;
+     cout << ch << endl;
+
+     unsigned int n = -112;
+     cout << n << endl;
+
+     double e = 2.0/5;
+     cout << e << endl;
+
+     int k = 2;
+     int g = 3;
+
+     bool first = (k==g);
+     cout << first << endl;
+
+
 
 
 }
