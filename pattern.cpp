@@ -9,7 +9,7 @@ int main()
 
     while(i<=n){
 
-        int j = i;
+        int j = i;   // here put j = 1 for different pattrn
         while(j<=n){
             cout<< i;
             j = j+1;
